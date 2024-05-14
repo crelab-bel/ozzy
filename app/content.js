@@ -1,4 +1,4 @@
 export const mainHero = {
-    h1: 'Plaats een SEO vriendelijke Hero tekst hier',
-    paragraaf: 'Plaats een SEO vriendelijke text die de H1 text ondersteunt hier',
+    h1: 'Ontdek Innovatieve Softwareoplossingen voor Efficiënt Beheer',
+    paragraaf: 'Verhoog uw productiviteit met onze op maat gemaakte softwaretools die ontworpen zijn om uw bedrijfsprocessen te stroomlijnen en te optimaliseren',
 };
